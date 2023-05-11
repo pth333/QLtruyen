@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "482119000370",
+    "project_id": "qbhcomic",
+    "storage_bucket": "qbhcomic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482119000370:android:608479e19e4f7dc21e772b",
+        "android_client_info": {
+          "package_name": "com.example.qbhcomics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482119000370-1ehtilo5r96f9br6ae8tij6k5al86o4a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.qbhcomics",
+            "certificate_hash": "4f3338a2b052f5c56867000214f893e90d6c3ac4"
+          }
+        },
+        {
+          "client_id": "482119000370-jbbb4uvom6lfo32cr8ciuimcmqgdhh7o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUrE8FqjbWCqsDBFzsSTIew1qyWG-HZM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482119000370-jbbb4uvom6lfo32cr8ciuimcmqgdhh7o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
